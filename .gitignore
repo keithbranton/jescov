@@ -7,3 +7,9 @@ build.properties
 /out
 lib/jescov*.jar
 src/gen
+/bin
+/.checkstyle
+/.pmd
+/.settings
+/.classpath
+/.project
