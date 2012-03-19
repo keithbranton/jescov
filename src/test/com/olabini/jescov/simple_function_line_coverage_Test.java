@@ -9,6 +9,6 @@ import cucumber.junit.Cucumber;
 import cucumber.junit.Feature;
 
 @RunWith(Cucumber.class)
-@Feature("features/simple_function_line_coverage.feature")
+@Feature("simple_function_line_coverage.feature")
 public class simple_function_line_coverage_Test {
 }// simple_function_line_coverage_Test

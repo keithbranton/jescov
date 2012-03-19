@@ -26,6 +26,7 @@
     <path refid="libs.classpath"/>
     <pathelement path="${main.classes.dir}"/>
     <pathelement path="${test.classes.dir}"/>
+    <pathelement path="${src.features.dir}"/>
   </path>
 
   <target name="prepare" description="Creates the directories needed for building">

@@ -9,6 +9,6 @@ import cucumber.junit.Cucumber;
 import cucumber.junit.Feature;
 
 @RunWith(Cucumber.class)
-@Feature("features/switch_statement_branch_coverage.feature")
+@Feature("switch_statement_branch_coverage.feature")
 public class switch_statement_branch_coverage_Test {
 }// switch_statement_branch_coverage_Test

@@ -9,6 +9,6 @@ import cucumber.junit.Cucumber;
 import cucumber.junit.Feature;
 
 @RunWith(Cucumber.class)
-@Feature("features/configuration.feature")
+@Feature("configuration.feature")
 public class configuration_Test {
 }// configuration_Test

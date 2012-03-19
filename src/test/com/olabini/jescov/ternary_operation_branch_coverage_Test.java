@@ -9,6 +9,6 @@ import cucumber.junit.Cucumber;
 import cucumber.junit.Feature;
 
 @RunWith(Cucumber.class)
-@Feature("features/ternary_operation_branch_coverage.feature")
+@Feature("ternary_operation_branch_coverage.feature")
 public class ternary_operation_branch_coverage_Test {
 }// ternary_operation_branch_coverage_Test

@@ -9,6 +9,6 @@ import cucumber.junit.Cucumber;
 import cucumber.junit.Feature;
 
 @RunWith(Cucumber.class)
-@Feature("features/while_statement_branch_coverage.feature")
+@Feature("while_statement_branch_coverage.feature")
 public class while_statement_branch_coverage_Test {
 }// while_statement_branch_coverage_Test

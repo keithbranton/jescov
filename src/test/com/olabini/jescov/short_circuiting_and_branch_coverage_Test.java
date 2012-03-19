@@ -9,6 +9,6 @@ import cucumber.junit.Cucumber;
 import cucumber.junit.Feature;
 
 @RunWith(Cucumber.class)
-@Feature("features/short_circuiting_and_branch_coverage.feature")
+@Feature("short_circuiting_and_branch_coverage.feature")
 public class short_circuiting_and_branch_coverage_Test {
 }// short_circuiting_and_branch_coverage_Test

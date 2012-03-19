@@ -9,7 +9,7 @@ import cucumber.junit.Cucumber;
 import cucumber.junit.Feature;
 
 @RunWith(Cucumber.class)
-@Feature("features/if_statement_branch_coverage.feature")
+@Feature("if_statement_branch_coverage.feature")
 public class if_statement_branch_coverage_Test {
 }// if_statement_branch_coverage_Test
 
