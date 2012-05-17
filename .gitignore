@@ -13,3 +13,4 @@ src/gen
 /.settings
 /.classpath
 /.project
+*.class
